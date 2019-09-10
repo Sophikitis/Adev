@@ -1,0 +1,21 @@
+{
+    "name": "Recrutement ActiveD",
+    "version": "1.0",
+    "authors": [
+        "Rachid <rachid@actived.fr>"
+    ],
+    "description": "js",
+    "main": "js/",
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "*"
+    }
+}

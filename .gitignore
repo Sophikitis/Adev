@@ -1,0 +1,10 @@
+.idea
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+~*.docx
+public/bower/
+/Recrutement.txt
+/actived_exercice_recrutement_facture.zip
